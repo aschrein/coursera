@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+target/
+.idea/
+.metadata/
+.settings/
+*.csv
